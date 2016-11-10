@@ -1,0 +1,28 @@
+    h1 {
+      color: red;
+      font-size: 30px;
+      text-align: center;
+    }
+
+    p {
+      color: blue;
+    }
+
+    .center-image {
+      text-align: center;
+    }
+
+    #header1 {
+      color: pink;
+      background-image: url(http://cdn1-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-2.jpg);
+      font-family: sans-serif;
+      background-size: contain;
+      background-repeat: no-repeat;
+      background-position: center;
+      text-align: left;
+      font-style: italic;
+    }
+
+    .city-cell {
+      font-size: 30px;
+    }
